@@ -6,4 +6,5 @@ By having a README.md file we can write all kinds of things in Markdown and it w
 
 [Link to Google so you can google things](https://www.google.com)
 
+* This line was added in GitHub so my local repo does not know about it yet
 
