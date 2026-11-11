@@ -11,5 +11,5 @@ By having a README.md file we can write all kinds of things in Markdown and it w
 
 ... and now they are merged!
 
-Ahh, I see! It is "git merge" that makes the conflict markers appear inside the file!
+Ahh, I see! It is "git merge" that makes the conflict markers appear inside the file! Then add, commit and push!
 
