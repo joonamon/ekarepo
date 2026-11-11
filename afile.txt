@@ -1,0 +1,6 @@
+This is a file. It contains text for the purposes of testing out this whole GitHub business.
+
+I haven't really used GitHub up until this point, because I didn't need it and I'm a firm believer in "less is more".
+
+But right about now I'm starting to think that a little bit more might actually be a lot more.
+
